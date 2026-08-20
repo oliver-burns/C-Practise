@@ -1,5 +1,13 @@
+# compiled C executables
 helloworld
 printing
 variables2
 newlines
 escapesequences
+variableinprintf
+variablesdemo
+*.out
+*.exe
+*.obj
+*.o
+*.bin
